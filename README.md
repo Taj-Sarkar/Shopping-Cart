@@ -78,7 +78,7 @@ npm run dev
 ## 🙋‍♂️ Author
 
 **Taj**  
-GitHub: [Taj Sarkar](https://github.com/Taj-Sarkar)  
+GitHub: [github.com/Taj-Sarkar](https://github.com/Taj-Sarkar)  
 
 ---
 
