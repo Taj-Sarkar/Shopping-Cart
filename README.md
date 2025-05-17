@@ -78,7 +78,7 @@ npm run dev
 ## 🙋‍♂️ Author
 
 **Taj**  
-GitHub: [@your-username](https://github.com/your-username)  
+GitHub: [Taj Sarkar](https://github.com/Taj-Sarkar)  
 
 ---
 
